@@ -1,0 +1,43 @@
+.wba{
+    width: 400px;
+    width: 300px;
+}
+
+.elso{
+    width: 310px;
+    height: 400px;
+    margin: auto;
+}
+
+.masodik{
+    width: 350px;
+    height: 400px;
+}
+
+.győzelem{
+    background-color: #ffff99;
+}
+
+p{
+    text-align: justify;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.link{
+    text-decoration: none;
+    color: #6b4226;
+    font-weight: bold;
+}
+
+caption{
+    caption-side: top;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
